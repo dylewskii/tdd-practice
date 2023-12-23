@@ -1,7 +1,7 @@
 # tdd-practice
 
 ## Aim:
-- Practice Test Driven Development (TDD) using Jest.
+Practice Test Driven Development (TDD) using Jest.
 
 ## Tests conducted on:
 1. A capitalize function that takes a string and returns it with the first character capitalized.
