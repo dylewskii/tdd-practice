@@ -1,5 +1,3 @@
-const reverseString = (str) => {
-
-}
+const reverseString = (str) => str.split("").reverse().join("");
 
 module.exports = reverseString;
